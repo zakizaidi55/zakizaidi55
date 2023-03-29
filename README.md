@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React and Node**
 
-- 🤝 I’m looking for help with **with an the opportunity in Web Development.**
+- 🤝Looking for help  **with an opportunity in Web Development.**
 
 - 📫 How to reach me **zakizaidi55@gmail.com**
 
