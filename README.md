@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakizaidi55&label=Profile%20views&color=0e75b6&style=flat" alt="zakizaidi55" /> </p>
 
-- 🔭 I’m currently working on **NGC MSS**
+- 🔭 I’m currently working on **UMS**
 
-- 🌱 I’m currently learning **React and Node**
+- 🌱 I’m currently learning **Next and Node**
 
 - 🤝Looking for help  **with an opportunity in Web Development.**
 
